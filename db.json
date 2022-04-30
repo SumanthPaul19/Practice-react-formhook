@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ravi",
+      "age": 20,
+      "city": "hyd",
+      "mobile": 9999999
+    },
+    {
+      "id": 2,
+      "username": "madhu",
+      "age": 19,
+      "city": "chennai",
+      "mobile": 9191999
+    },
+    {
+      "id": 3,
+      "username": "bhanu",
+      "age": 21,
+      "city": "kerala",
+      "mobile": 9999392
+    },
+    {
+      "id": 4,
+      "username": "yavan",
+      "age": 22,
+      "city": "pune",
+      "mobile": 99995992
+    },
+    {
+      "id": 5,
+      "username": "hitesh",
+      "age": 20,
+      "city": "bangalore",
+      "mobile": 9999999
+    },
+    {
+      "id": 6,
+      "username": "deeksha",
+      "age": 21,
+      "city": "hyd",
+      "mobile": 9993999
+    },
+    {
+      "username": "pauly",
+      "age": 22,
+      "city": "Hyderabad",
+      "mobile": "987755",
+      "id": 7
+    },
+    {
+      "username": "pauly",
+      "age": 23,
+      "city": "Lohore",
+      "mobile": "12243435",
+      "id": 8
+    }
+  ],
+  "employees": {
+    "empno": "123",
+    "username": "xwdqwf",
+    "age": 12,
+    "email": "scasf@fdsf",
+    "dob": "",
+    "gender": "female",
+    "state": "",
+    "textarea": "dcsdv"
+  }
+}
